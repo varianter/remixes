@@ -5,11 +5,11 @@ Skrev det här för att samla frågor som kan hjälpa till att skriva blogposter
 Nya varianter: Välj några du tycker du kunde skrivit ett intressant svar på. 
 
 ## Origin story
-* Hvordan vil du beskrive <navn>, <navn>?
+* Hvordan vil du beskrive `<navn>`, `<navn>`?
 * Hvilken vei har du gått for å komme dit du er nå? Ja sånn karrieremessig.
 * När fick du din första dator?
 * Vem introducerade dig till <fag>?
-* Du, <navn>, vad är din origin story? (Första datorn/möte med photoshop eller kanske någon som du lärde mycket av)
+* Du, `<navn>`, vad är din origin story? (Första datorn/möte med photoshop eller kanske någon som du lärde mycket av)
 
 ## Fag
 * Hva er det viktigste med <design> for deg?
@@ -24,7 +24,7 @@ Nya varianter: Välj några du tycker du kunde skrivit ett intressant svar på.
 
 ## Musik
 * Hvilken låt setter du på når du tar helg?
-* Hvilke tre headlinere spiller på <navn>s drømmefestival? 
+* Hvilke tre headlinere spiller på `<navn>`s drømmefestival? 
 * Hva er din beste <genre: matematisk rock> anbefaling?
 * Hvilke 3 band ville du sett live i morgen?
 * Pro tip på podcast-fronten?
