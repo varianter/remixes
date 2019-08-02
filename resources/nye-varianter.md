@@ -19,26 +19,28 @@ Nya varianter: Välj några du tycker du kunde skrivit ett intressant svar på.
 
 ## Gifs
 * Hvilken GIF beskriver deg best?
-* Hvilken gif vil du si beskriver deg best etter klokken 16:00 på en fredag?
-* Senaste tingen du dobbel tæppa på sosiale medier? (man kan gärna modifiera sanningen här, intentionen är att visa ett intresse du har)
+* Hvilken GIF fikk deg til å le høyt sist?
+* Gif som beskriver deg best klokken 16:00 på en fredag?
 
 ## Musik
 * Hvilken låt setter du på når du tar helg?
 * Hvilke tre headlinere spiller på `<navn>`s drømmefestival? 
-* Hva er din beste <genre: matematisk rock> anbefaling?
-* Hvilke 3 band ville du sett live i morgen?
+* Hva er din beste `<obskyr genre>` anbefaling?
 * Pro tip på podcast-fronten?
 
 ## Random
 * Hva er din topp life hack/pro tip som flere burde vite om?
 * Kan du nevne de tre beste rettene du har spist?
+* Beste isen i denne sommervarmen?
 * Vad är något du vet ofrivilligt mycket om? (föräldrars/partners jobb f.eks)
 * Vad är något du lärt av dina föräldrars föräldrar?
 * Om du fick kunskapen för vilket som helst jobb annars, vad hade du valt?
+* Senaste tingen du dobbel tæppa på sosiale medier? (man kan gärna modifiera sanningen här, intentionen är att visa ett intresse du har)
 
 Add for flair:
 * Ikke minst
 * Fårnsi
+* ...
 
 Vinkla gärna frågorna:
 * Jeg har hørt at du ...
